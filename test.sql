@@ -1,1 +1,1 @@
-SELECT * FROM diamonds
+SELECT * FROM gittest.new

@@ -1,3 +1,3 @@
-delete from gittest.new where carat=0.24;
+delete from gittest.new where carat=0.24 and carat=0.25;
 
-delete from gittest.new where gittest.new.carat=0.25;
+
